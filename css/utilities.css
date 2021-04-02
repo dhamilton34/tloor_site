@@ -1,0 +1,13 @@
+.container {
+    margin: 0 auto;
+    overflow: auto;
+    max-width: 1200px;
+}
+
+/* Positioning */
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
